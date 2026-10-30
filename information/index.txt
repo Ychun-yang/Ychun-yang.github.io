@@ -55,18 +55,18 @@ f:I[4911,[],"AsyncMetadataOutlet"]
       root.lang = 'en';
       root.setAttribute('data-locale', 'en');
     }
-  0:{"P":null,"b":"Q_4ZVUulJTSpPv55yQOT3","p":"","c":["","information",""],"i":false,"f":[[["",{"children":[["slug","information","d"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e789bb5ad3ecc45e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"scroll-smooth","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.svg","type":"image/svg+xml"}],["$","link",null,{"rel":"dns-prefetch","href":"https://jialeliu.com"}],["$","link",null,{"rel":"preconnect","href":"https://jialeliu.com","crossOrigin":""}],["$","link",null,{"rel":"preload","as":"font","type":"font/woff2","href":"https://jialeliu.com/fonts/georgiab.woff2","crossOrigin":""}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n              try {\n                const theme = localStorage.getItem('theme-storage');\n                const parsed = theme ? JSON.parse(theme) : null;\n                const setting = parsed?.state?.theme || 'system';\n                const prefersDark = typeof window !== 'undefined' && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;\n                const effective = setting === 'dark' ? 'dark' : (setting === 'light' ? 'light' : (prefersDark ? 'dark' : 'light'));\n                var root = document.documentElement;\n                root.classList.add(effective);\n                root.setAttribute('data-theme', effective);\n              } catch (e) {\n                var root = document.documentElement;\n                root.classList.add('light');\n                root.setAttribute('data-theme', 'light');\n              }\n            "}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]]}],["$","body",null,{"className":"font-sans antialiased","children":["$","$L3",null,{"children":["$","$L4",null,{"config":{"enabled":true,"locales":["zh","en"],"defaultLocale":"en","mode":"auto","fixedLocale":"en","persist":true,"switcher":true,"labels":{"zh":"中文","en":"English"}},"children":[["$","$L5",null,{"items":[{"title":"About","type":"page","target":"about","href":"/"},{"title":"Publications","type":"page","target":"publications","href":"/publications"},{"title":"information","type":"page","target":"information","href":"/information"},{"title":"Awards","type":"page","target":"awards","href":"/awards"},{"title":"Services","type":"page","target":"services","href":"/services"},{"title":"CV","type":"page","target":"cv","href":"/cv"}],"siteTitle":"Yichun Yang","enableOnePageMode":false,"i18n":"$0:f:0:1:1:props:children:1:props:children:1:props:children:props:children:props:config","itemsByLocale":{"zh":[{"title":"About","type":"page","target":"about","href":"/"},{"title":"Publications","type":"page","target":"publications","href":"/publications"},{"title":"information","type":"page","target":"information","href":"/information"},{"title":"Awards","type":"page","target":"awards","href":"/awards"},{"title":"Services","type":"page","target":"services","href":"/services"},{"title":"CV","type":"page","target":"cv","href":"/cv"}],"en":[{"title":"About","type":"page","target":"about","href":"/"},{"title":"Publications","type":"page","target":"publications","href":"/publications"},{"title":"information","type":"page","target":"information","href":"/information"},{"title":"Awards","type":"page","target":"awards","href":"/awards"},{"title":"Services","type":"page","target":"services","href":"/services"},{"title":"CV","type":"page","target":"cv","href":"/cv"}]},"siteTitleByLocale":{"zh":"Yichun Yang","en":"Yichun Yang"}}],["$","main",null,{"className":"min-h-screen pt-16 lg:pt-20","children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L8",null,{"lastUpdated":"$undefined","lastUpdatedByLocale":{"zh":"$undefined","en":"$undefined"},"defaultLocale":"en"}]]}]}]}]]}]]}],{"children":[["slug","information","d"],["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L9",["$","$La",null,{"children":"$Lb"}],null,["$","$Lc",null,{"children":["$Ld","$Le",["$","$Lf",null,{"promise":"$@10"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","S8wwG4rjihCOxAk46RAGV",{"children":[["$","$L11",null,{"children":"$L12"}],null]}],null]}],false]],"m":"$undefined","G":["$13","$undefined"],"s":false,"S":true}
+  0:{"P":null,"b":"2I3VJlpJgFB_Zmwkc8OSc","p":"","c":["","information",""],"i":false,"f":[[["",{"children":[["slug","information","d"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e789bb5ad3ecc45e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"scroll-smooth","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.svg","type":"image/svg+xml"}],["$","link",null,{"rel":"dns-prefetch","href":"https://jialeliu.com"}],["$","link",null,{"rel":"preconnect","href":"https://jialeliu.com","crossOrigin":""}],["$","link",null,{"rel":"preload","as":"font","type":"font/woff2","href":"https://jialeliu.com/fonts/georgiab.woff2","crossOrigin":""}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n              try {\n                const theme = localStorage.getItem('theme-storage');\n                const parsed = theme ? JSON.parse(theme) : null;\n                const setting = parsed?.state?.theme || 'system';\n                const prefersDark = typeof window !== 'undefined' && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;\n                const effective = setting === 'dark' ? 'dark' : (setting === 'light' ? 'light' : (prefersDark ? 'dark' : 'light'));\n                var root = document.documentElement;\n                root.classList.add(effective);\n                root.setAttribute('data-theme', effective);\n              } catch (e) {\n                var root = document.documentElement;\n                root.classList.add('light');\n                root.setAttribute('data-theme', 'light');\n              }\n            "}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]]}],["$","body",null,{"className":"font-sans antialiased","children":["$","$L3",null,{"children":["$","$L4",null,{"config":{"enabled":true,"locales":["zh","en"],"defaultLocale":"en","mode":"auto","fixedLocale":"en","persist":true,"switcher":true,"labels":{"zh":"中文","en":"English"}},"children":[["$","$L5",null,{"items":[{"title":"About","type":"page","target":"about","href":"/"},{"title":"Publications","type":"page","target":"publications","href":"/publications"},{"title":"information","type":"page","target":"information","href":"/information"},{"title":"Awards","type":"page","target":"awards","href":"/awards"},{"title":"Services","type":"page","target":"services","href":"/services"},{"title":"CV","type":"page","target":"cv","href":"/cv"}],"siteTitle":"Yichun Yang","enableOnePageMode":false,"i18n":"$0:f:0:1:1:props:children:1:props:children:1:props:children:props:children:props:config","itemsByLocale":{"zh":[{"title":"About","type":"page","target":"about","href":"/"},{"title":"Publications","type":"page","target":"publications","href":"/publications"},{"title":"information","type":"page","target":"information","href":"/information"},{"title":"Awards","type":"page","target":"awards","href":"/awards"},{"title":"Services","type":"page","target":"services","href":"/services"},{"title":"CV","type":"page","target":"cv","href":"/cv"}],"en":[{"title":"About","type":"page","target":"about","href":"/"},{"title":"Publications","type":"page","target":"publications","href":"/publications"},{"title":"information","type":"page","target":"information","href":"/information"},{"title":"Awards","type":"page","target":"awards","href":"/awards"},{"title":"Services","type":"page","target":"services","href":"/services"},{"title":"CV","type":"page","target":"cv","href":"/cv"}]},"siteTitleByLocale":{"zh":"Yichun Yang","en":"Yichun Yang"}}],["$","main",null,{"className":"min-h-screen pt-16 lg:pt-20","children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L8",null,{"lastUpdated":"$undefined","lastUpdatedByLocale":{"zh":"$undefined","en":"$undefined"},"defaultLocale":"en"}]]}]}]}]]}]]}],{"children":[["slug","information","d"],["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L9",["$","$La",null,{"children":"$Lb"}],null,["$","$Lc",null,{"children":["$Ld","$Le",["$","$Lf",null,{"promise":"$@10"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","fh3Z-6jUZDQzTKqVuNdBZ",{"children":[["$","$L11",null,{"children":"$L12"}],null]}],null]}],false]],"m":"$undefined","G":["$13","$undefined"],"s":false,"S":true}
 14:"$Sreact.suspense"
 15:I[4911,[],"AsyncMetadata"]
 17:I[2382,["461","static/chunks/461-a9a5d7b05a71d978.js","178","static/chunks/178-595a94b9af1e67b5.js","748","static/chunks/748-f4e184070a2d7828.js","182","static/chunks/app/%5Bslug%5D/page-cef6ece8f98709da.js"],"default"]
 b:["$","$14",null,{"fallback":null,"children":["$","$L15",null,{"promise":"$@16"}]}]
-18:Tb07,Here I would like to share some personal details about my hobbies and experiences.
+18:Tba4,Here I would like to share some personal details about my hobbies and experiences.
 
 My hobbies include music, mathematics, origami, anime, light novels, video games, and sports (e.g. running & basketball.)
 
 ## Music
 
-I particularly love rhythm, especially [Beatboxing](https://en.wikipedia.org/wiki/Beatboxing) (creating beats with the mouth)
+I love rhythm, especially [Beatboxing](https://en.wikipedia.org/wiki/Beatboxing) (creating beats with the mouth)
  and [Pen Tapping](https://www.pentap.net/how-to-pen-tap/) (creating beats with pens, also known as Penbeat). My favorite Beatboxer is [Kaji](https://beatbox.fandom.com/wiki/KAJI) from Japan.
 
 Pen Tapping is my hobby since middle school. 
@@ -74,15 +74,15 @@ Since 2015, I have been posting Pen Tapping videos on the Chinese video platform
 
 I met my girlfriend in the Pen Tapping community.
 
-I enjoy electronic music with strong beats, [Vocaloid music](https://en.wikipedia.org/wiki/Vocaloid), and J-pop (e.g. [あいみょん(Aimyon)](https://en.wikipedia.org/wiki/Aimyon), [ヨルシカ(Yorushika)](https://en.wikipedia.org/wiki/Yorushika)). 
+I enjoy electronic music with strong beats (e.g. [House](https://en.wikipedia.org/wiki/House_music), [Hardstyle](https://en.wikipedia.org/wiki/Hardstyle), [Techno](https://en.wikipedia.org/wiki/Techno)), [Vocaloid music](https://en.wikipedia.org/wiki/Vocaloid), and j-pop (e.g. [あいみょん(Aimyon)](https://en.wikipedia.org/wiki/Aimyon), [ヨルシカ(Yorushika)](https://en.wikipedia.org/wiki/Yorushika)). 
 I also enjoy slower music, including some old songs from the last century and folk music.
 
 ## Anime, novel & games
 
-I spend most of my free time watching anime, reading light novels and web fiction, and playing video games. 
+I spend most of my free time watching anime, reading light novels and web fictions, and playing video games. 
 My favourite anime/light novel is [さくら荘のペットな彼女(樱花庄的宠物女孩)](https://en.wikipedia.org/wiki/The_Pet_Girl_of_Sakurasou). 
 
-Over the past several years, I have had little time and energy to keep up with new anime or try new games (except [Stardew Valley](https://stardewvalleywiki.com/Stardew_Valley_Wiki)). I have spent most of my free time reading web fiction.
+Over the past several years, I have had little time and energy to keep up with new anime or try new games (except [Stardew Valley](https://stardewvalleywiki.com/Stardew_Valley_Wiki)). I have spent most of my free time reading web fictions.
 
 ## Origami
 
@@ -98,22 +98,22 @@ During my undergraduate years, there was a period when I devoted so much time an
 that I lost sight of why I was studying it. 
 This led me to switch to computer science. 
 
-However, when I turn to CS, I later realized that I love theory more than engineering. 
+However, when I turned to CS, I later realized that I love theory more than engineering. 
 So I then shifted to study combinatorics and theoretical CS.
 
 The papers I wrote in 2023–2024 (shortly after switching to CS) 
 were repeatedly rejected for many times. This was deeply discouraging at the time. 
 From 2025 onward, however, my skills gradually improved, and things began to get better.
 
-I may shift my focus to other fields (than theory) in the future due to the impact of AI. 
+I may shift my focus to other fields (other than theory) in the future due to the impact of AI. 
 But still, I believe that making choices I'm happy with is the most important thing.
-19:Tb07,Here I would like to share some personal details about my hobbies and experiences.
+19:Tba4,Here I would like to share some personal details about my hobbies and experiences.
 
 My hobbies include music, mathematics, origami, anime, light novels, video games, and sports (e.g. running & basketball.)
 
 ## Music
 
-I particularly love rhythm, especially [Beatboxing](https://en.wikipedia.org/wiki/Beatboxing) (creating beats with the mouth)
+I love rhythm, especially [Beatboxing](https://en.wikipedia.org/wiki/Beatboxing) (creating beats with the mouth)
  and [Pen Tapping](https://www.pentap.net/how-to-pen-tap/) (creating beats with pens, also known as Penbeat). My favorite Beatboxer is [Kaji](https://beatbox.fandom.com/wiki/KAJI) from Japan.
 
 Pen Tapping is my hobby since middle school. 
@@ -121,15 +121,15 @@ Since 2015, I have been posting Pen Tapping videos on the Chinese video platform
 
 I met my girlfriend in the Pen Tapping community.
 
-I enjoy electronic music with strong beats, [Vocaloid music](https://en.wikipedia.org/wiki/Vocaloid), and J-pop (e.g. [あいみょん(Aimyon)](https://en.wikipedia.org/wiki/Aimyon), [ヨルシカ(Yorushika)](https://en.wikipedia.org/wiki/Yorushika)). 
+I enjoy electronic music with strong beats (e.g. [House](https://en.wikipedia.org/wiki/House_music), [Hardstyle](https://en.wikipedia.org/wiki/Hardstyle), [Techno](https://en.wikipedia.org/wiki/Techno)), [Vocaloid music](https://en.wikipedia.org/wiki/Vocaloid), and j-pop (e.g. [あいみょん(Aimyon)](https://en.wikipedia.org/wiki/Aimyon), [ヨルシカ(Yorushika)](https://en.wikipedia.org/wiki/Yorushika)). 
 I also enjoy slower music, including some old songs from the last century and folk music.
 
 ## Anime, novel & games
 
-I spend most of my free time watching anime, reading light novels and web fiction, and playing video games. 
+I spend most of my free time watching anime, reading light novels and web fictions, and playing video games. 
 My favourite anime/light novel is [さくら荘のペットな彼女(樱花庄的宠物女孩)](https://en.wikipedia.org/wiki/The_Pet_Girl_of_Sakurasou). 
 
-Over the past several years, I have had little time and energy to keep up with new anime or try new games (except [Stardew Valley](https://stardewvalleywiki.com/Stardew_Valley_Wiki)). I have spent most of my free time reading web fiction.
+Over the past several years, I have had little time and energy to keep up with new anime or try new games (except [Stardew Valley](https://stardewvalleywiki.com/Stardew_Valley_Wiki)). I have spent most of my free time reading web fictions.
 
 ## Origami
 
@@ -145,14 +145,14 @@ During my undergraduate years, there was a period when I devoted so much time an
 that I lost sight of why I was studying it. 
 This led me to switch to computer science. 
 
-However, when I turn to CS, I later realized that I love theory more than engineering. 
+However, when I turned to CS, I later realized that I love theory more than engineering. 
 So I then shifted to study combinatorics and theoretical CS.
 
 The papers I wrote in 2023–2024 (shortly after switching to CS) 
 were repeatedly rejected for many times. This was deeply discouraging at the time. 
 From 2025 onward, however, my skills gradually improved, and things began to get better.
 
-I may shift my focus to other fields (than theory) in the future due to the impact of AI. 
+I may shift my focus to other fields (other than theory) in the future due to the impact of AI. 
 But still, I believe that making choices I'm happy with is the most important thing.
 9:["$","$L17",null,{"dataByLocale":{"zh":{"type":"text","config":{"type":"text","title":"Personal Information","source":"information.md"},"content":"$18"},"en":{"type":"text","config":{"type":"text","title":"Personal Information","source":"information.md"},"content":"$19"}},"defaultLocale":"en"}]
 e:null
